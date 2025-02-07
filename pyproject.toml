@@ -1,0 +1,18 @@
+[project]
+name = "quickstart2025"
+version = "0.1.0"
+description = "Easy to use code snippets to get you started on QML"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "qutip-qip>=0.4.0",
+    "qutip>=5.1.1",
+    "ingenii-quantum>=0.1.0",
+    "qiskit-algorithms>=0.3.1",
+    "qiskit-machine-learning>=0.8.2",
+    "seaborn>=0.13.2",
+    "optuna>=4.2.0",
+    "ydata-profiling>=4.12.2",
+    "ipywidgets>=8.1.5",
+]
