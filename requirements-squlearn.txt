@@ -1,0 +1,4 @@
+squlearn
+ipykernel
+matplotlib
+pylatexenc

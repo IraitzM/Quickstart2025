@@ -9,6 +9,10 @@ source .venb/bin/activate
 (.venv) pip install -r requirements.txt
 ```
 
+### sQULearn
+
+In order to play around with squlearn, due to library incompatibilities, please create a second environment using the _requirements-squlearn.txt_ file.
+
 ## Outline
 
 Under the [notebooks](./notebooks/) folder, you will find a set of notebooks and some exercises to master some basic concepts in order to master the field.
